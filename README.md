@@ -1,3 +1,7 @@
+## Parcours français
+
+Ce fork propose un parcours documentaire francophone : [voir docs/fr](./docs/fr/).
+
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/IndexCoop/index-protocol/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/IndexCoop/index-protocol/tree/master)
 [![Coverage Status](https://coveralls.io/repos/github/IndexCoop/index-protocol/badge.svg?branch=master)](https://coveralls.io/github/IndexCoop/index-protocol?branch=master)
 
